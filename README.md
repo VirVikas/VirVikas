@@ -75,6 +75,41 @@ I work primarily with **React, Node.js, MongoDB, JavaScript, AI/LLM technologies
 
 ---
 
+📋 Project Management & Collaboration
+
+
+
+
+
+
+
+
+Experienced with:
+
+JIRA project & task tracking
+Confluence documentation
+Slack team collaboration
+Sprint / milestone tracking
+Project status reporting
+Task assignment & prioritization
+Technical discussions
+Team mentoring
+Code reviews
+Cross-functional collaboration
+
+---
+🧩 Third-Party Integrations
+
+I have experience integrating external services and APIs into production applications, including:
+
+🔐 Adobe Signature
+📍 Google services / Plus Codes
+🔗 REST APIs
+🪝 Webhooks
+🔑 Authentication services
+🤖 AI / LLM services
+
+---
 # 🚀 Featured Projects
 
 ### 🧠 RAG Knowledge Assistant
@@ -149,14 +184,15 @@ Production
 
 I enjoy working on:
 
-* ⚡ Performance optimization
-* 🧠 AI-powered applications
-* 🔍 Search systems
-* 📊 Data-heavy dashboards
-* 🔄 Real-time applications
-* 🏗️ System design
-* ⚙️ Automation
-* ☁️ Cloud deployments
+⚡ Performance optimization
+🧠 AI-powered applications
+🔍 Search systems
+📊 Data-heavy applications
+🔄 Real-time systems
+🏗️ System design
+⚙️ Automation
+🔗 Third-party integrations
+👥 Technical leadership
 
 ---
 
